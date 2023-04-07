@@ -169,28 +169,28 @@ params:
       - job: "Internship"
         company: "3D Middle East LLC"
         companyUrl: "https://www.3d-me.com/"
-        date: "Jan 2022 - present"
+        date: "May 2022 - June 2022"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          url: "https://docs.google.com/presentation/d/1aDdc7QFpnzXB0fsyTZADgk6Org82pqGO/edit?usp=share_link&ouid=102537406905011837521&rtpof=true&sd=true"
+        content: "Internship at 3D Middle East LLC Observed and learned in how 3D systems work throughout different fields such as reverse engineering, dentisry and jewlery. Saw the inner workings of a business"
 
       - job: "Internship"
         company: "Jumeirah Living Residence "
         companyUrl: "https://www.jumeirah.com/en/stay/dubai/world-trade-centre-residences"
-        date: "Sep 2020 - Dec 2021"
+        date: "May 2022 - June 2022"
         featuredLink:
           enable: true
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: Learned about electrical engineering systems in a hotel
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Learned about how the different systems in the hotel work, such as how the WiFI and phone access is provided in hospitatility enviorment, Had hands on expirence with fixing these issues such as replacing the local server.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Backend Systems
+          - Server Replacement/Maintenince.
 
       - job: "Junior Software Developer"
         company: "Apple"
@@ -204,7 +204,7 @@ params:
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
+          - Lead backend developer for a product. ss
           - Created a frontend design for a product.
 
       - job: "UI/UX Designer"
