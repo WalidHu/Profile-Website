@@ -119,7 +119,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Walid"
-    subtitle: "Aspiring Computer Scientisit"
+    subtitle: "Aspiring Computer scientist"
     content: "I love all things technology. However, I have plenty of other interests all of which you can explore here "
     image: /images/pngwing.com.png
     bottomImage:
